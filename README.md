@@ -3,7 +3,7 @@ Profile README
 -->
 
 <div align="center">
-  <video src="bg_flow_jaypab.mp4" autoplay loop muted width="100%"></video>
+  <img src="header_bg.gif" width="100%" alt="Background Flow" />
   <div style="margin-top: -220px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
     <h1 style="font-size: 3.5rem; margin: 0;">Lowell Jay Pabua </h1>
     <h3 style="margin: 10px 0 0 0; font-weight: normal;">Student Developer | Tech Enthusiast | Explorer</h3>
